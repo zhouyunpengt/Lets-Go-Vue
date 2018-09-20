@@ -4,9 +4,9 @@
 ## Build Setup
 
 ``` bash
-# install dependencies(安装依赖项)
+# install dependencies (安装依赖项)
 npm install
 
-# serve with hot reload at localhost:8080(启动服务在localhost:8080)
+# serve with hot reload at localhost:8080 (启动服务在localhost:8080)
 npm run dev
 ```
