@@ -1,7 +1,7 @@
 # Let’s Go(莱茨购)
 >原网站请访问 http://shop.daqitc.net/home.html#
 
-## Build Setup
+## 启动说明
 
 ``` bash
 # install dependencies (安装依赖项)
