@@ -5,7 +5,8 @@
 
 ``` bash
 # install dependencies (安装依赖项)
-yarn install(推荐),如果没有yarn可使用npm install
+推荐 yarn install
+如果没有 yarn 可使用 npm install
 
 # serve with hot reload at localhost:8080 (启动服务在localhost:8080端口)
 npm run dev
