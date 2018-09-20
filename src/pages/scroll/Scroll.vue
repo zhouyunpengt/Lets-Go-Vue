@@ -14,7 +14,7 @@ export default {
     srollTop () {
       let i = setInterval(() => {
         if (document.documentElement.scrollTop > 0) {
-          document.documentElement.scrollTop = document.documentElement.scrollTop - 30
+          document.documentElement.scrollTop = document.documentElement.scrollTop - 50
         } else {
           clearInterval(i)
         }
